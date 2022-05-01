@@ -1,8 +1,8 @@
 # AgricultureMoniteringSystem
 
 /*
-Project by Salim Khazem from Algeria  
-Github : salimkhazem 
+Project by Dite Mechatronics  
+Github : vishwkant0693 
 */
 #include "DHT.h"
 
