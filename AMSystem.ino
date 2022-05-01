@@ -1,4 +1,3 @@
-# AgricultureMoniteringSystem
 
 /*
 Project by Dite Mechatronics  
